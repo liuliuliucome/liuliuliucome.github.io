@@ -22,7 +22,7 @@ EOS Blockchain的目标是成为一个可以支持工业规模分散式应用的
 - 他们声称有能力每秒进行数百万次交易。
 
 那么，让我们看看这些炒作背后的原因。 在本指南中，我们将讨论所有EOS。 然而，在我们这样做之前，让我们为什么需要像EOS这样的东西。 让我们回答下面的问题。
-![](http://7xnpvq.com1.z0.glb.clouddn.com/eos%201.png)
+![](http://cdn.get-on.cn/eos%201.png)
 
 
 ## 分布式应用（DAPP）要求什么？ ##
@@ -74,7 +74,7 @@ DAPP应该尽可能平稳地运行并尽可能低的延迟。
 
 ## EOS Blockchain背后的团队 ##
 
-![](http://7xnpvq.com1.z0.glb.clouddn.com/eos%202.png)
+![](http://cdn.get-on.cn/eos%202.png)
 
 EOS背后的核心团队是位于开曼群岛的“Block.one”。 首席执行官Brendon Blumer自2014年起一直参与区块链。他之前曾参与处理MMORPG和房地产货币交易的公司。
 
@@ -244,7 +244,7 @@ EOS通过整合诸如用于界面开发的Web工具包，自描述接口，自�
 
 DPOS系统没有经历一个分支，因为它不是竞争查找块，而是生产者将不得不合作。 如果发生分叉，共识会自动切换到最长的链条。
 
-![](http://7xnpvq.com1.z0.glb.clouddn.com/eos%203.png)
+![](http://cdn.get-on.cn/eos%203.png)
 
 
 
@@ -360,7 +360,7 @@ EOS = a *（b / c）。
 所以，Bob收到：1 *（30/5）= 6个EOS令牌。
 
 而且，Alice获得= 24个EOS令牌。
-![](http://7xnpvq.com1.z0.glb.clouddn.com/eos%204.png)
+![](http://cdn.get-on.cn/eos%204.png)
 
 
 
@@ -379,7 +379,7 @@ Ethereum联合创始人Vitalik Buterin提出了一些关于EOS的担忧。
 ### 什么是协调博弈论？ ###
 
 考虑这个矩阵：
-![](http://7xnpvq.com1.z0.glb.clouddn.com/eos%205.png)
+![](http://cdn.get-on.cn/eos%205.png)
 
 
 现在，如果你看到这个矩阵，有两个纳什均衡：（A，A）和（B，B），偏离任何一个州都不会使他们受益。 这场比赛的想法是你如何说服人们从（A，A）到（B，B）？ 如果涉及一小部分人，那么相对简单，您可以通过电话或电子邮件进行协调。 但是，当我们谈论一大群人时，这会发生变化。
@@ -434,7 +434,7 @@ Vitalik指出，用户需要持有一定数量的EOS代币才能获得一定数�
 
 **暂时考虑这种情况：**
 
-![](http://7xnpvq.com1.z0.glb.clouddn.com/eos%206.png)
+![](http://cdn.get-on.cn/eos%206.png)
 
 
 
