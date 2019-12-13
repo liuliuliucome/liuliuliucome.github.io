@@ -40,7 +40,7 @@ future: true
 highlight:
   enable: false
   line_number: true
-  auto_detect: false
+  auto_detect: true
   tab_replace:
   
 # Home page setting
@@ -72,7 +72,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: material
+theme: obsidian
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
